@@ -1,4 +1,4 @@
-function entropy=MIff(f1,f2)
+function entropy=MIf(f1,f2)
 [rf1,cf1]=size(f1);
 [rf2,cf2]=size(f2);
 entropy=0;
